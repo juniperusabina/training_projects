@@ -15,3 +15,5 @@
 В проекте используется язык программирования Python
 Библиотеки pandas, sklearn, matplotlib, numpy
 Для работы использовался VS Code с Jupiter Notebook
+Проект выполнен Яцык Ариной.
+
